@@ -1,0 +1,2 @@
+# Hetor
+Script Termux
